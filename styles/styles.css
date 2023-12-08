@@ -1,0 +1,21 @@
+h1,
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-align:center;
+    font-weight: bolder;
+    font-size:180px;
+
+}
+
+h1 {
+    color:cyan;
+    background-color:rgb(255, 145, 145);
+    
+
+}
+li {
+    color:red;
+    background-color:cyan;
+    font-size:30px;
+    text-align:right;
+}
